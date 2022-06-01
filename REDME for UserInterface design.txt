@@ -1,0 +1,5 @@
+UserInterace Design file contents
+
+1.software which i used  for coding with the version.
+2.file contain asp.net coding which i used for developing the UserInterface(UI)
+3.file contain "adrotator" tool,script manager and xml file.   

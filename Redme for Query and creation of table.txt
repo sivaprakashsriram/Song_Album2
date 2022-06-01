@@ -1,0 +1,9 @@
+Query and creation of table file Contents
+
+
+1. Title of the project. 
+2. what type of server i have used, with the version of it.
+3. Creating and display of the data present in the server.
+4. i have inserted screenshot for every creation of table adn displaying it.
+
+
